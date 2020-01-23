@@ -1,0 +1,12 @@
+.Char {
+    background-color: #303030;
+    color: #eee;
+    box-shadow: 0 0 10px #101010aa;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    width: 20px;
+    border: 1px solid #202020;
+    text-align: center;
+}
